@@ -2,6 +2,9 @@ package com.example.expensetracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+
+val incomeGreen = Color(0xFF2E7D32)
+
 val primaryLight = Color(0xFF422EC2)
 val onPrimaryLight = Color(0xFFFFFFFF)
 val primaryContainerLight = Color(0xFF5B4BDB)
